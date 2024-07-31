@@ -1,0 +1,3 @@
+D:/Linked_queue/cmake-build-debug/CMakeFiles/labWork5.dir
+D:/Linked_queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Linked_queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
