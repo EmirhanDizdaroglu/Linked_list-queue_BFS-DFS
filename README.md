@@ -2,15 +2,6 @@
 
 Bu proje, bağlı liste (linked list) kullanarak bir kuyruk (queue) ve bir yığın (stack) veri yapılarının temel implementasyonlarını sağlar. Ayrıca, genişlik öncelikli gezinti (BFS) ve derinlik öncelikli gezinti (DFS) algoritmalarının örneklerini içermektedir.
 
-## İçindekiler
-
-- [Projeye Genel Bakış](#projeye-genel-bakış)
-- [Kurulum ve Gereksinimler](#kurulum-ve-gereksinimler)
-- [Kullanım](#kullanım)
-- [Dosya Yapısı](#dosya-yapısı)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
-
 ## Projeye Genel Bakış
 
 Bu proje iki temel veri yapısını içerir:
