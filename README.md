@@ -28,7 +28,6 @@ Bu proje, C programlama dili kullanılarak geliştirilmiştir ve CMake ile yapı
 Projeyi yerel makinenize klonlayın:
 
 ```bash
-git clone https://github.com/kullanici-adiniz/linked-queue-stack.git
 cd linked-queue-stack
 
 ### Dosya yapısı
